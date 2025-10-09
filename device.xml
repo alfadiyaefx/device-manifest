@@ -9,6 +9,7 @@
   <submanifest
       name="vendor/manifest"
       remote="origin"
+      project="alfadiyaefx/vendor-manifest"
       manifest-name="vendor.xml"
       revision="main" />
 </manifest>
