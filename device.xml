@@ -10,5 +10,5 @@
       remote="origin"
       project="vendor-manifest"
       manifest-name="vendor.xml"
-      revision="main" />
+      revision="b98385d50274682bf7f090488484275f13d93862" />
 </manifest>
