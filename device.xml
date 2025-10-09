@@ -7,7 +7,7 @@
 
   <!-- Declare it as a submanifest -->
   <submanifest
-      name="vendor/manifest"
+      name="alfadiyaefx/vendor-manifest"
       remote="origin"
       project="vendor-manifest"
       manifest-name="vendor.xml"
