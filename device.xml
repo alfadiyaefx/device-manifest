@@ -9,7 +9,7 @@
   <submanifest
       name="vendor-manifest"
       remote="origin"
-      project="vendor/manifest"
+      project="vendor-manifest"
       manifest-name="vendor.xml"
       revision="main" />
 </manifest>
