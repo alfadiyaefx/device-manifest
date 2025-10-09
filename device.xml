@@ -3,7 +3,7 @@
   <remote name="origin" fetch="git@github.com:alfadiyaefx" />
 
   <!-- Include vendor manifest as a project -->
-  <project name="vendor-manifest" path="vendor/manifest" remote="origin" revision="main" />
+  <project name="vendor-manifest" path="vendor/manifest" remote="origin" revision="45b38f5" />
 
   <!-- Declare it as a submanifest -->
   <submanifest
