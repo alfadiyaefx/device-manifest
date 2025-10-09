@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="git@github.com:" />
+  <remote name="origin" fetch="git@github.com" />
 
   <!-- Include vendor manifest as a project -->
   <project name="alfadiyaefx/vendor-manifest" path="vendor/manifest" remote="origin" revision="main" />
