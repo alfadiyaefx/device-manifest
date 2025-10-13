@@ -2,5 +2,5 @@
 <manifest>
   <remote name="origin" fetch="git@github.com:alfadiyaefx" />
   <!-- Declare it as a submanifest -->
-  <submanifest name="vendor-manifest" remote="origin" project="vendor-manifest" manifest-name="vendor.xml" path="example" revision="main"/>
+  <submanifest name="vendor-manifest" remote="origin" project="vendor-manifest" manifest-name="vendor.xml" path="example" revision="c624d7ea3eca073aeeecc9649dd3c58421533f11"/>
 </manifest>
